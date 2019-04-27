@@ -24,7 +24,7 @@ public class OrderController {
                 setStreetLine1("413 Tanner Square");
                 setCity("McKinney");
                 setState("TX");
-                setZipCode("75070");
+                setZipCode("75072");
             }});
         }};
       //  String result = restTemplate.getForObject("https://samples.openweathermap.org/data/2.5/weather?zip=75070&appid=e213c176f32b286f63425463f29ab9c6", String.class);
